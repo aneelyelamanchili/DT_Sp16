@@ -3,5 +3,7 @@
 http://projects.dailytrojan.com/sp16/
 
 Created by:
+
 Aneel Yelamanchili, Lead Web Developer | Daily Trojan
+
 Sebastian Vega, Digital Managing Editor | Daily Trojan
